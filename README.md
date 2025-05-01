@@ -7,3 +7,6 @@
 
 # 必须安装的库 
 pip install tkinter subprocess
+
+# 需要自己修改VPN名称
+VPN_NAME = "VPB@Home"
