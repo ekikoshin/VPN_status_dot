@@ -4,5 +4,5 @@
 红灯 表示VPN已连接，不要访问校内系统
 绿灯 表示VPN未连接
 
-#必须安装的库 
+# 必须安装的库 
 pip install tkinter subprocess
